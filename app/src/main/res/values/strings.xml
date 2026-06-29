@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اپراتور چت راویکس</string>
+    <string name="service_channel_name">اتصال اپراتور چت</string>
+    <string name="message_channel_name">پیام‌های جدید راویکس</string>
+    <string name="message_channel_description">اعلان فوری همراه صدا برای پیام‌های تازه کاربران</string>
+</resources>

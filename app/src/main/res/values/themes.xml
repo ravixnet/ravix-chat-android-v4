@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RavixChat" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/ravix_primary</item>
+        <item name="colorPrimaryVariant">@color/ravix_primary_dark</item>
+        <item name="colorSecondary">@color/ravix_secondary</item>
+        <item name="colorSurface">@color/ravix_surface</item>
+        <item name="colorOnSurface">@color/ravix_text</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:colorAccent">@color/ravix_primary</item>
+    </style>
+</resources>

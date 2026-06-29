@@ -1,0 +1,9 @@
+نسخه جدید: 0.3.0-internal
+
+1) فایل ZIP را Extract کنید.
+2) تمام محتویات داخل پوشه پروژه را در ریشه Repository جدید ravix-chat-android-v3 جایگزین کنید.
+3) پوشه مخفی .github و فایل .github/workflows/build-debug-apk.yml حتماً باید آپلود شوند.
+4) وارد Actions شوید و Build Ravix Chat Operator APK را اجرا کنید.
+5) بعد از سبزشدن Build، فایل ravix-chat-operator-debug-apk را از Artifacts بگیرید.
+
+نیازی به فایل gradlew نیست؛ Workflow با gradle/actions/setup-gradle نسخه Gradle 8.9 را آماده می‌کند.
